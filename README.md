@@ -46,7 +46,7 @@
 
 ### ✨ Contribution Graph
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nitish-002&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nitish-002&theme=highcontrast" />
 </p>
 
 ---
@@ -106,9 +106,8 @@ Here are some of my favorite projects:
 
 ---
 
-### 💡 Lottie Animations for Flair
+### ✨ Custom Animations for Flair
 <p align="center">
-  <a href="https://lottiefiles.com/">
-    <img src="https://assets7.lottiefiles.com/packages/lf20_zgixsoiy.json" width="200" alt="Lottie Animation" />
-  </a>
+  <img src="https://media.giphy.com/media/13f2t8S7ZhsK0jNm53/giphy.gif" width="300" alt="Custom Animation" />
+  <img src="https://media.giphy.com/media/3o85xHMojNqGHQAPNe/giphy.gif" width="300" alt="Flair Animation" />
 </p>
