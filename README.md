@@ -34,7 +34,7 @@
 
 ---
 
-## 🌟 Developer Mode Activated!
+## 🌟 Developer Mode Activated.!
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300" />
