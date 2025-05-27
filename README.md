@@ -11,7 +11,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me 
 - 🎓 CSE Undergrad at **Polaris School of Technology**
 - 🌱 Currently exploring **Full Stack Dev**, **DevOps**, and **System Design**
 - 🧠 Always building, breaking, and learning new things
