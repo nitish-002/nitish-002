@@ -15,7 +15,7 @@
 - 🎓 CSE Undergrad at **Polaris School of Technology**
 - 🌱 Currently exploring **Full Stack Dev**, **DevOps**, and **System Design**
 - 🧠 Always building, breaking, and learning new things
-- ⚡ Fun Fact: I enjoy brainstorming product ideas
+- ⚡ Fun Fact: I enjoy brainstorming product ideas.
 - 🔗 Portfolio: [n1tish.tech](https://n1tish.tech)
 
 ---
